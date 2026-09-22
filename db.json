@@ -1,0 +1,44 @@
+{
+  "pytania":[
+    {
+      "tresc":"Jaki jest największy gatunek waleni na świecie?",
+      "odp_a":"Płetwal błękitny",
+      "odp_b":"Kaszalot",
+      "odp_c":"Sejwal",
+      "odp_d":"Orka",
+      "poprawna":1
+    },
+    {
+      "tresc":"Który samolot jest najlepszy na walke w przepływie dwuokręgowym",
+      "odp_a":"F16",
+      "odp_b":"A-10",
+      "odp_c":"F18",
+      "odp_d":"JF17",
+      "poprawna":2
+    },
+    {
+      "tresc":"W którym roku był chrzest polski?",
+      "odp_a":"1006",
+      "odp_b":"1012",
+      "odp_c":"996",
+      "odp_d":"966",
+      "poprawna":3
+    },
+    {
+      "tresc":"Jak nazywa się flet na którym gra mnich Komusō?",
+      "odp_a":"Shinobue",
+      "odp_b":"Nohkan",
+      "odp_c":"Shakuhachi",
+      "odp_d":"Komabue",
+      "poprawna":2
+    },
+    {
+      "tresc":"Jaki z tych mark pochodzi z Włoch?",
+      "odp_a":"Ferrari",
+      "odp_b":"Volkswagen ",
+      "odp_c":"Polonez",
+      "odp_d":"Ford",
+      "poprawna":0
+    }
+  ]
+}

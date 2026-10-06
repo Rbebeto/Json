@@ -1,5 +1,3 @@
-{
-  "pytania":[
     {
       "tresc":"Jaki jest największy gatunek waleni na świecie?",
       "odp_a":"Płetwal błękitny",
@@ -40,5 +38,3 @@
       "odp_d":"Ford",
       "poprawna":0
     }
-  ]
-}
